@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img	src="images/8888.jpg" width="200px" height="100px"/> 
+![222](images\222.png)
 
 # docsify <small>3.5</small>
 
