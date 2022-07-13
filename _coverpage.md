@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![222](images\222.png)
+![222](\images\222.png)
 
 # docsify <small>3.5</small>
 
