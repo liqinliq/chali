@@ -5,4 +5,4 @@
 > 一个神奇的个人博客.....
 
 [GitHub](https://github.com/liqinliq/chali) 
-[Get Started](/README.md)
+[Get Started](README.md)
