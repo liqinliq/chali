@@ -5,8 +5,7 @@
   * [Arduino](https://blog.csdn.net/mark_md/category_11477137.html)
 
 * 源码&资料
-  * [Github](https://github.com/ZhiliangMa/easyio-lib-for-esp32)
-  * [LVGL](https://github.com/ZhiliangMa/lv_port_esp32)
-  * [原理图](https://github.com/ZhiliangMa/easyio-lib-for-esp32/blob/master/Schematic_ESP32-IOT-KIT_2021-11-16.pdf)
-  * [店铺]()
+  * [Github]([liqinliq/chali: 个人开发博客 仅供分享 (github.com)](https://github.com/liqinliq/chali) )
+  * [数据结构与算法]([【尚硅谷】数据结构与算法（Java数据结构与算法）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1E4411H73v?p=17&spm_id_from=pageDriver&vd_source=1314c00c0397764ab0569ed1fa75dd03) )
+  * [Gitee]([test/src/main/java · 李钦/Task - 码云 - 开源中国 (gitee.com)](https://gitee.com/chali-com/task/tree/master/test/src/main/java) )
 
