@@ -2,5 +2,5 @@
 - [2.继承](/md/继承.md)
 - [3.java面向对象编程](/md/02_Java面向对象编程.md)
 - [4.java高级程序设计](/md/03_Java高级程序设计.md)
+- [5.静态方法、final关键字、abstract类型](/static属性)
 
-[5.静态方法、final关键字、abstract类型](/static属性)
